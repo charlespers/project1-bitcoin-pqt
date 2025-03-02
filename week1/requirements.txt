@@ -1,6 +1,11 @@
-requests>=2.31.0
-pandas>=2.2.0
-praw>=7.7.1
-kaggle>=1.6.6
-nltk>=3.8.1
-pytrends>=4.9.2
+os
+csv
+requests
+pandas
+praw
+kaggle
+nltk
+time
+pytrends
+numpy
+pygments
